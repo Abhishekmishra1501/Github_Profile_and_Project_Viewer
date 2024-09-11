@@ -1,0 +1,35 @@
+{
+ "blogdata" : [
+   {
+      "id":1,
+      "title":"Learning React Is Really Easy",
+      "description":"  Lorem ipsum, dolor sit amet consectetur adipisicing elit. Ducimus quas fugit, praesentium, illum, earum deleniti odit ipsa minus nemo itaque perspiciatis quae sint doloremque labore perferendis excepturi in? Doloribus, nobis."
+   },
+
+   {
+    "id":2,
+    "title":"NextJs Is Futuristic Framework",
+    "description":  "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Ducimus quas fugit, praesentium, illum, earum deleniti odit ipsa minus nemo itaque perspiciatis quae sint doloremque labore perferendis excepturi in? Doloribus, nobis."
+ },
+ 
+ {
+   "id":3,
+   "title":"Javascript is good language",
+   "description":  "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Ducimus quas fugit, praesentium, illum, earum deleniti odit ipsa minus nemo itaque perspiciatis quae sint doloremque labore perferendis excepturi in? Doloribus, nobis."
+},
+{
+   "id":4,
+   "title":"Ai & Ml is future",
+   "description":  "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Ducimus quas fugit, praesentium, illum, earum deleniti odit ipsa minus nemo itaque perspiciatis quae sint doloremque labore perferendis excepturi in? Doloribus, nobis."
+},
+{
+   "id":5,
+   "title":"RoR & Ml is future",
+   "description":  "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Ducimus quas fugit, praesentium, illum, earum deleniti odit ipsa minus nemo itaque perspiciatis quae sint doloremque labore perferendis excepturi in? Doloribus, nobis."
+}
+
+
+
+
+]
+}
